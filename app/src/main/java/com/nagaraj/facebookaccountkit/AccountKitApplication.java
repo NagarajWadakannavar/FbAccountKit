@@ -1,3 +1,5 @@
+package com.nagaraj.facebookaccountkit;
+
 import android.app.Application;
 
 import com.facebook.accountkit.AccountKit;
